@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADSQuizMachine", "ADSQuizMachine\ADSQuizMachine.csproj", "{499ECFCA-ED8A-47F4-B984-603770A63185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Debug|x86.ActiveCfg = Debug|x86
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Debug|x86.Build.0 = Debug|x86
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Release|x86.ActiveCfg = Release|x86
+		{499ECFCA-ED8A-47F4-B984-603770A63185}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC722846-A2A6-4CAF-B0C4-872F0239E11E}
+	EndGlobalSection
+EndGlobal
